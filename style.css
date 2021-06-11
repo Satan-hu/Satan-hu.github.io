@@ -75,9 +75,3 @@ button:hover{
       float: none;
     }
   }
-  @media (min-width: 992px){
-    .nav_links li {
-        margin-left : 1em;
-        margin-right : 1em;
-    }
-}
